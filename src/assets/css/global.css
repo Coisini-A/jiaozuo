@@ -1,0 +1,33 @@
+el-progress__text {
+  color: #fff;
+}
+
+.el-progress-bar__outer {
+  background-color: rgba(255, 255, 255, 0.2);
+}
+
+.el-progress__text {
+  color: #fff;
+}
+
+.el-progress-circle svg path:first-child {
+  stroke: rgba(255, 255, 255, 0.2);
+}
+.BMap_cpyCtrl{
+  display: none !important;
+}
+.anchorBL{
+display: none !important;
+}
+.el-table--border, .el-table--group{
+  border: 1px solid #183F6B;
+}
+.el-table,.el-table th,.el-table tr{
+  background-color:rgba(0, 0, 0, 0);
+}
+.el-table{
+  color:#fff;
+}
+/* .el-table--border{
+  border: none;
+} */
